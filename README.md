@@ -2,9 +2,9 @@
 可選擇使用手機手電筒、震動、聲音來表現
 ## Demo
 ### 初始畫面
-![](image/image1.jpg =300x)
+<img src="image/image1.jpg" width="300">  
 ### 文字轉換
-![](image/image2.jpg =300x)
+<img src="image/image2.jpg" width="300">  
 ### 特殊符號（有特殊意義的組合）
-![](image/image3.jpg =300x)
-![](image/image3.jpg =300x)
+<img src="image/image3.jpg" width="300"> 
+<img src="image/image4.jpg" width="300"> 
