@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MorseCode</string>
+    <string-array name="Spinner_UniformSymbol">
+        <item name="MessageHasBeenSent">「我有訊息發送。」</item>
+        <item name="NextSentence">「本句完，接下一句。」</item>
+        <item name="Wrong">「有錯，從上一字重新開始。」</item>
+        <item name="MessageEnd">「訊息結束。」</item>
+        <item name="ReceivingMessage">「我正在接收你的訊息。」</item>
+        <item name="AlreadyPrepared">「我已準備好，請開始發送訊息。」</item>
+        <item name="WordReceived">「字收到了。」</item>
+        <item name="Repeat">「請重覆你的電碼，我不是很明白。」</item>
+        <item name="MessageReceived">「訊息已收到。」</item>
+        <item name="Termination">　終止（聯絡結束）</item>
+        <item name="Wait">　等待</item>
+        <item name="Delimiter">（分隔符）</item>
+        <item name="SOS">　求救訊號</item>
+    </string-array>
+</resources>

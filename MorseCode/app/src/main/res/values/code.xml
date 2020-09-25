@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--English Letter-->
+    <string-array name="EnglishLetter">
+        <item name="A">·-</item>
+        <item name="B">-···</item>
+        <item name="C">-·-·</item>
+        <item name="D">-··</item>
+        <item name="E">·</item>
+        <item name="F">··-·</item>
+        <item name="G">--·</item>
+        <item name="H">····</item>
+        <item name="I">··</item>
+        <item name="J">·---</item>
+        <item name="K">-·-</item>
+        <item name="L">·-··</item>
+        <item name="M">--</item>
+        <item name="N">-·</item>
+        <item name="O">---</item>
+        <item name="P">·--·</item>
+        <item name="Q">--·-</item>
+        <item name="R">·-·</item>
+        <item name="S">···</item>
+        <item name="T">-</item>
+        <item name="U">··-</item>
+        <item name="V">···-</item>
+        <item name="W">·--</item>
+        <item name="X">-··-</item>
+        <item name="Y">-·--</item>
+        <item name="Z">--··</item>
+    </string-array>
+
+    <!--Number-->
+    <string-array name="LongNumber">
+        <item name="L0">-----</item>
+        <item name="L1">·----</item>
+        <item name="L2">··---</item>
+        <item name="L3">···--</item>
+        <item name="L4">····-</item>
+        <item name="L5">·····</item>
+        <item name="L6">-····</item>
+        <item name="L7">--···</item>
+        <item name="L8">---··</item>
+        <item name="L9">----·</item>
+    </string-array>
+    <string-array name="ShortNumber">
+        <item name="S0">-</item>
+        <item name="S1">·-</item>
+        <item name="S2">··-</item>
+        <item name="S3">···-</item>
+        <item name="S4">····-</item>
+        <item name="S5">·····</item>
+        <item name="S6">-····</item>
+        <item name="S7">-···</item>
+        <item name="S8">-··</item>
+        <item name="S9">-·</item>
+    </string-array>
+
+    <!--Punctuation-->
+    <string-array name="Punctuation">
+        <item name="Exclamation">-·-·--</item>    <!-- ! -->
+        <item name="Quotation">·-··-·</item>    <!-- " -->
+        <!-- # -->
+        <item name="DollarSign">···-··-</item>    <!-- $ -->
+        <!-- % -->
+        <item name="Ampersand">·-···</item>    <!-- & -->
+        <item name="Apostrophe">·----·</item>    <!-- ' -->
+        <item name="OpenParentheses">-·--·</item>    <!-- ( -->
+        <item name="CloseParentheses">-·--·-</item>    <!-- ) -->
+        <!-- * -->
+        <item name="Plus">·-·-·</item>    <!-- + -->
+        <item name="Comma">--··--</item>    <!-- , -->
+        <item name="Minus">-····-</item>    <!-- - -->
+        <item name="FullStop">·-·-·-</item>    <!-- . -->
+        <item name="Slash">-··-·</item>    <!-- / -->
+
+        <item name="Colon">---···</item>    <!-- : -->
+        <item name="Semicolon">-·-·-·</item>    <!-- ; -->
+        <!-- < -->
+        <item name="Equal">-···-</item>    <!-- = -->
+        <!-- > -->
+        <item name="Question">··--··</item>    <!-- ? -->
+        <item name="At">·--·-·</item>    <!-- @ -->
+
+        <item name="Underline">··--·-</item>    <!-- _ -->
+    </string-array>
+
+    <!--Uniform Symbol-->
+    <string-array name="UniformSymbol">
+        <item name="MessageHasBeenSent">·-·-·-·-·-</item>    <!--「我有訊息發送」-->
+        <item name="NextSentence">·-·-·-</item>    <!--「本句完，接下一句」-->
+        <item name="Wrong">········</item>    <!--「有錯，從上一字重新開始」-->
+        <item name="MessageEnd">·-·-·</item>    <!--「訊息結束」-->
+        <item name="ReceivingMessage">-----</item>    <!--「我正在接收你的訊息」-->
+        <item name="AlreadyPrepared">-·-</item>    <!--「我已準備好，請開始發送訊息」-->
+        <item name="WordReceived">-</item>    <!--「字收到了」-->
+        <item name="Repeat">··--··</item>    <!--「請重覆你的電碼，我不是很明白」-->
+        <item name="MessageReceived">·-·</item>    <!--「訊息已收到」-->
+        <item name="Termination">···-·-</item>    <!--終止（聯絡結束）-->
+        <item name="Wait">·-···</item>    <!--等待-->
+        <item name="Delimiter">-···-</item>    <!--分隔符-->
+        <item name="SOS">···---···</item>    <!--求救訊號-->
+    </string-array>
+
+</resources>
+
+<!--    嘀是一個時間長度-->
+<!--    嗒是三個時間長度-->
+<!--    發送的時候，點和劃之間停一個時間點長度-->
+<!--    字符和字符之間停留3個時間點長度-->
+<!--    單詞和單詞之間停留7個時間點長度-->
+
+
